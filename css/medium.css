@@ -1,0 +1,29 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+.medium-bg {
+    background-color: rgb(252, 188, 13);
+}
+
+.border-black {
+    border-bottom: 1px solid #414141;
+}
+
+.m-button {
+    padding: 5px 20px 5px; 
+    font-size: 20px;
+    color: white;
+    background-color: #191919;
+    border-radius: 99em;
+    width: 220px;
+}
+
+.f-size-m {
+    font-size: 20px;
+
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
